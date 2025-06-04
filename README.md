@@ -8,7 +8,7 @@ Hi! I'm **Saptha Sree**, a passionate and creative B.Tech student from **Kerala*
 
 - **Bachelor of Technology (B.Tech)**  
   Major: Artificial Intelligence and Data Science  
-  Year: 3rd Year  
+  Year: 4th Year  
   Location: Kerala, India
 
 ---
