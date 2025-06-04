@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-Hi! I'm **Saptha Sree**, a passionate and creative B.Tech student from **Kerala**, currently in my **third year**. I specialize in **Artificial Intelligence and Data Science**, with a strong foundation in Python, Machine Learning, and data analysis. I'm always exploring new technologies, solving real-world problems through projects, and building user-friendly applications.
+Hi! I'm **Sapthasree**, a passionate and creative B.Tech student from **Kerala**, currently in my **final year**. I specialize in **Artificial Intelligence and Data Science**, with a strong foundation in Python, Machine Learning, and data analysis. I'm always exploring new technologies, solving real-world problems through projects, and building user-friendly applications.
 
 ---
 
