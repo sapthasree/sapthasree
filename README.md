@@ -69,5 +69,3 @@ Feel free to connect if you:
 - Need help with data analysis or web apps  
 
 ```
-
-Let me know if you'd like to save this as a file, turn it into a personal portfolio webpage, or create a GitHub profile `README` version with emojis and badges!
