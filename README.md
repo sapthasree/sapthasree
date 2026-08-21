@@ -251,7 +251,7 @@ I'm open to **entry-level roles, internships, AI/ML projects, data analytics opp
 
 I'm always interested in connecting with people working on **AI, Data Science, Analytics, and innovative technology solutions**.
 
-- 💼 **LinkedIn:** [Sapthasree](https://www.linkedin.com/in/sapthasree)
+- 💼 **LinkedIn:** [Sapthasree](https://www.linkedin.com/in/sapthasree-n-k-4447b2294/)
 - 💻 **GitHub:** [Sapthasree](https://github.com/sapthasree)
 - 📧 **Email:** sapthasreenkarimbra@gmail.com
 
